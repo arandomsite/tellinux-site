@@ -7,4 +7,5 @@ Tellinux is a Linux based Internet
 2. It's open source
 3. It's completely free
 
-Type inside the url "arandomsite/text.txt" to go to another page
+Pages:
+ASCII: arandomsite/ascii.txt
