@@ -1,1 +1,8 @@
-# ur mother
+# ARandomSite
+Welcome to ARandomSite! This is my Tellinux site!
+
+What is Tellinux?
+Tellinux is a Linux based Internet
+1. It runs on GitHub
+2. It's open source
+3. It's completely free
