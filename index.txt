@@ -8,4 +8,4 @@ Tellinux is a Linux based Internet
 3. It's completely free
 
 Pages:
-ASCII: arandomsite/ascii.txt
+About: arandomsite/about.txt
