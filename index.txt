@@ -6,3 +6,5 @@ Tellinux is a Linux based Internet
 1. It runs on GitHub
 2. It's open source
 3. It's completely free
+
+Type inside the url "arandomsite/text.txt" to go to another page
