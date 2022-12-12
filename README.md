@@ -1,2 +1,2 @@
-# tellinux
-Tellinux is a Linux based telnet
+# Tellinux
+This is my Tellinux site!
