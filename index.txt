@@ -1,4 +1,4 @@
-ARandomSite
+[title]ARandomSite[/title]
 Welcome to ARandomSite! This is my Tellinux site!
 
 What is Tellinux?
